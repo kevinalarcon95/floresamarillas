@@ -35,29 +35,3 @@ for i in range(300):
     turtle.stamp()
     
 done()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# turtle.penup()
-# turtle.goto(0, -275) 
-# turtle.color("white")
-# turtle.write("Te amo mucho!", font=("Arial", 24, "bold"), align="center")
